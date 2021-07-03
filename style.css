@@ -1,0 +1,17 @@
+div{
+    background-color: brown;
+    border: 20px blue solid;
+    padding: 50px 25px;
+    border-radius: 25px;
+    margin: 50px auto;
+    width: 75%;
+}
+div h3{
+    text-align: center;
+    color: chartreuse;
+}
+div p{
+    background-color: darkgreen;
+    font-weight: 600;
+    color: gold;
+}
